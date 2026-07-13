@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1291-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
