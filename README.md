@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
@@ -25,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
