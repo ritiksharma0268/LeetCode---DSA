@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -26,10 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
