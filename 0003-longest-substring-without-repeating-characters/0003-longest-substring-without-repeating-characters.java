@@ -2,22 +2,23 @@ class Solution
 {
     public int lengthOfLongestSubstring(String s) 
     {
+        char alpha[] = s.toCharArray();   
+        
+        int max = 0;
 
-        if(s.length() == 1)
+        int len = alpha.length ;
+
+        if(len>100)
         {
-            return 1;
+            len = 100;
         }
-
-       char alpha[] = s.toCharArray();
-       int n = alpha.length;
-       int max = 0;
-
-       for(int i = 0;i<n;i++)
-       {
+        
+        for(int i = 0;i<alpha.length;i++)
+        {
             List<Character> list1 = new ArrayList<>();
             int count = 0;
 
-            for(int j = i;j<n;j++)
+            for(int j = i;j<len;j++)
             {
                 if(list1.contains(alpha[j]))
                 {
@@ -30,8 +31,44 @@ class Solution
             {
                 max = count;
             }
-       }
+        }
 
-       return max;
+        return max;
+
     }
 }
+
+
+
+
+    //     // this is the most brute approach near about O(n^2);
+    //     if(s.length() == 1)
+    //     {
+    //         return 1;
+    //     }
+
+    //    char alpha[] = s.toCharArray();
+    //    int n = alpha.length;
+    //    int max = 0;
+
+    //    for(int i = 0;i<n;i++)
+    //    {
+    //         List<Character> list1 = new ArrayList<>();
+    //         int count = 0;
+
+    //         for(int j = i;j<n;j++)
+    //         {
+    //             if(list1.contains(alpha[j]))
+    //             {
+    //                 break;
+    //             }
+    //             list1.add(alpha[j]);
+    //             count++;
+    //         }
+    //         if(count>max)
+    //         {
+    //             max = count;
+    //         }
+    //    }
+
+    //    return max;
