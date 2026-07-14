@@ -4,17 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
