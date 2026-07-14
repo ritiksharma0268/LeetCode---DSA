@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
