@@ -1,69 +1,40 @@
 class Solution 
 {
+    public int vowelcount(String s)
+    {
+        int count = 0;
+
+        String vowel = "aeiou";
+
+        char alpha[] = s.toCharArray();
+
+        for(int i = 0;i<alpha.length;i++)
+        {
+            if(vowel.indexOf(alpha[i]) != -1)
+            {
+                count++;
+            }
+        }
+
+        return count;
+    }
     public String reverseWords(String s) 
     {
+        // this is the most optimised solutions //
+
         String words[] = s.split(" ");
 
-        int constcount = 0;
-
-        for(int i = 0;i<words[0].length();i++)
-        {
-            if(words[0].charAt(i) == 'a' || words[0].charAt(i) == 'e' ||words[0].charAt(i) == 'i' ||words[0].charAt(i) == 'o' ||words[0].charAt(i) == 'u' )
-            {
-                constcount++;
-            }
-        }  
-
-           
+        int first = vowelcount(words[0]);
 
         for(int i = 1;i<words.length;i++)
         {
-            int vowel = 0;
-
-            for(int j = 0;j<words[i].length();j++)
+            if(vowelcount(words[i]) == first)
             {
-                if(words[i].charAt(j) == 'a' || words[i].charAt(j) == 'e' ||words[i].charAt(j) == 'i' ||words[i].charAt(j) == 'o' ||words[i].charAt(j) == 'u' )
-                {
-                    vowel++;
-                }
-            }
-
-            if(vowel == constcount)
-            {
-                char word[] = words[i].toCharArray();
-
-                int left = 0;
-                int right = word.length - 1;
-
-                while(left <= right)
-                {
-                    char temp = word[left];
-                    word[left] = word[right];
-                    word[right] = temp;
-                    left++;
-                    right--;
-                }
-
-
-                String newsubstring = new String(word);
-
-                words[i] = newsubstring;
+                words[i] = new StringBuilder(words[i]).reverse().toString();
             }
         }
 
-        String newstring = "";
-
-        for(int i = 0;i<words.length;i++)
-        {
-            if(i == words.length - 1)
-            {
-                newstring = newstring + words[i];
-            }
-            else
-            {
-                newstring = newstring + words[i] + " ";
-            }
-        }
+        String newstring = String.join(" ",words);
 
         return newstring;
     }
