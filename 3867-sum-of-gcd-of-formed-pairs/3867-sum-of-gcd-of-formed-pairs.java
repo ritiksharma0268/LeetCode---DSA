@@ -20,24 +20,23 @@ class Solution
 
         int maxi = Integer.MIN_VALUE;
 
+
+        int prefixgcd[] = new int[n];
+
         for(int i = 0;i<nums.length;i++)
         {
             if(nums[i] > maxi)
             {
                 maxi = nums[i];
                 maximum[i] = maxi;
+
+                prefixgcd[i] = gcd(nums[i],maximum[i]);
             }
             else
             {
                 maximum[i] = maxi;
+                prefixgcd[i] = gcd(nums[i],maximum[i]);
             }
-        }
-        
-        int prefixgcd[] = new int[n];
-
-        for(int i = 0;i<prefixgcd.length;i++)
-        {
-            prefixgcd[i] = gcd(nums[i],maximum[i]);
         }
 
         Arrays.sort(prefixgcd);
