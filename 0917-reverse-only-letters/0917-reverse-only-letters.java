@@ -27,11 +27,6 @@ class Solution
             }
         }
 
-        for(int i = 0;i<alpha.length;i++)
-        {
-            System.out.println(alpha[i]);
-        }
-
         String str2 = new String(alpha);
         return str2;
     }
