@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
