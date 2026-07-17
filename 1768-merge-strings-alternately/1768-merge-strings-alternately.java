@@ -5,7 +5,7 @@ class Solution
         int index1 = 0;
         int index2 = 0;
 
-        char ans[] = new char[word1.length() + word2.length()];
+        String ans = "";
 
         int i = 0;
 
@@ -13,22 +13,20 @@ class Solution
         {
             if(index1<word1.length())
             {
-                ans[i] = word1.charAt(index1);
-                i++;
+                ans += word1.charAt(index1);
                 index1++;
             }
             if(index2 < word2.length())
             {
-                ans[i] = word2.charAt(index2);
-                i++;
+                ans += word2.charAt(index2);
                 index2++;
             }
         }
 
-        String answer = new String(ans);
+       
 
 
-        return answer;
+        return ans;
 
     }
 }
