@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -161,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
