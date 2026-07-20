@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2595-number-of-even-and-odd-bits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Sliding Window
 |  |
 | ------- |
