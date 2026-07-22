@@ -6,7 +6,7 @@ class Solution
          // visulisation is everything //
         int n = fruits.length;
 
-        Map<Integer,Integer> map1 = new HashMap<>();
+        Map<Integer,Integer> map1 = new HashMap<>(); // storing the number and its frequency  //
 
         int maxlen  = 0;
 
@@ -24,19 +24,20 @@ class Solution
                 map1.put(fruits[right],1);
             }
 
-            if(map1.size() > 2)
+            if(map1.size() > 2)  // our main attempt is too see the no of unique elements doesnt exceed the size 2//            
             {
-                while(map1.size() > 2)
+                map1.put(fruits[left],map1.get(fruits[left])-1);
+                if(map1.get(fruits[left])==0)
                 {
-                    map1.put(fruits[left] , map1.get(fruits[left]) - 1);
-                    if(map1.get(fruits[left]) == 0)
-                    {
-                        map1.remove(fruits[left]);
-                    }
-                    left++;
+                    map1.remove(fruits[left]);
                 }
+                left++;
             }
-            maxlen = Math.max(maxlen,right - left + 1);
+            if(map1.size() <= 2)
+            {
+                maxlen = Math.max(maxlen,right - left + 1);
+            }
+            
             right ++;
         }
 
