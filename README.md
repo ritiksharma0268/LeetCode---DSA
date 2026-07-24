@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1089-duplicate-zeros) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
