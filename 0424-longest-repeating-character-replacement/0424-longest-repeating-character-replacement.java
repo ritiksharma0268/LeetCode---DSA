@@ -26,22 +26,23 @@ class Solution
 
             if(changes > k)
             {
-                while(!(changes <= k))
+                hash[s.charAt(left) - 'A']--;
+                left++;
+                int nextmax = 0;
+
+                for(int i = 0;i<26;i++)
                 {
-                    hash[s.charAt(left) - 'A']--;
-                    int nextmax = 0;
-                    for(int i = 0;i<26;i++)
-                    {
-                        nextmax = Math.max(nextmax,hash[i]);
-                    }
-                    left++;
-                    maxf = nextmax;
-                    changes = (right - left +1) - (maxf);
+                    nextmax = Math.max(nextmax,hash[i]);
                 }
 
-            }
+                maxf = nextmax;
 
-            maxlen = Math.max(maxlen,right - left + 1);
+                changes = (right - left + 1) - (maxf);
+            }
+            if(changes <= k)
+            {
+                maxlen = Math.max(maxlen,right - left + 1);
+            }
 
             right ++;
 
