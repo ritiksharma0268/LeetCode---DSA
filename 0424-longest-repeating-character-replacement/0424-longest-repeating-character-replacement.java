@@ -28,14 +28,9 @@ class Solution
             {
                 hash[s.charAt(left) - 'A']--;
                 left++;
-                int nextmax = 0;
+                
 
-                for(int i = 0;i<26;i++)
-                {
-                    nextmax = Math.max(nextmax,hash[i]);
-                }
-
-                maxf = nextmax;
+                maxf = maxf - 1;
 
                 changes = (right - left + 1) - (maxf);
             }
