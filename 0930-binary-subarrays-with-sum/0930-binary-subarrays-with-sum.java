@@ -1,40 +1,50 @@
 class Solution 
 {
-    public int numSubarraysWithSum(int[] nums, int goal) 
+    public int subarraylessthanequalsum(int[] nums,int goal)
     {
-        // now we are going to do it using the concept of prefix sum //
-
-        // start relating the question //
-        int count = 0;
-
-        Map<Integer,Integer> map1 = new HashMap<>();
-
-        int prefixsum = 0;
-
-        map1.put(0,1);
-
-        for(int i = 0;i<nums.length;i++)
+        if(goal < 0)
         {
-            prefixsum = prefixsum + nums[i];
-
-            if(map1.containsKey(prefixsum - goal))
-            {
-                count += map1.get(prefixsum - goal);
-            }
-
-            if(map1.containsKey(prefixsum))
-            {
-                map1.put(prefixsum,map1.get(prefixsum)+1);
-            }
-            else
-            {
-                map1.put(prefixsum,1);
-            }
-
+            return 0;
         }
 
-        return count;
+        int left  = 0;
+        int right = 0;
 
 
+        int count = 0;
+
+        int sum = 0;
+
+        while(right < nums.length)
+        {
+            sum += nums[right];
+
+            while(sum>goal)
+            {
+                sum -= nums[left];
+                left++;
+            }
+
+            count += (right - left+1);
+            right++;
+        }
+
+        return count ;
+
+    }
+
+
+    public int numSubarraysWithSum(int[] nums, int goal) 
+    {
+       // now i am going do it using the concept of sliding window //
+
+        //**key concept**//
+       // we have to use the concept of knowing how many subarrays is less than or equal to goal and second one is less than equal to goal  - 1//
+
+       int x = subarraylessthanequalsum(nums,goal);
+       int y = subarraylessthanequalsum(nums,goal-1);
+
+       return x - y;
+    
     }
 }
