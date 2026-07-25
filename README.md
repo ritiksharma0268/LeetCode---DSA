@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
