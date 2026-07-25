@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
