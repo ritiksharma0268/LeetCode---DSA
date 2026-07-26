@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
