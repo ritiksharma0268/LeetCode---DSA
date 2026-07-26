@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
+| [0413-arithmetic-slices](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0413-arithmetic-slices) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0748-shortest-completing-word) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0413-arithmetic-slices) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
