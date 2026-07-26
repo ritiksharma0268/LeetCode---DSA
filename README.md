@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
