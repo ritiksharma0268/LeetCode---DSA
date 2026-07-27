@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
