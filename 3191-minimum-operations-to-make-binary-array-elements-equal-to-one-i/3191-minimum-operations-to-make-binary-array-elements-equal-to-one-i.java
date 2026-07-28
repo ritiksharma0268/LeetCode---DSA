@@ -31,36 +31,18 @@ class Solution
                     }
                 }
 
-                
-                
-
                 ans++;
             }
 
             right++;
         }
 
-        for(int i  = 0;i<nums.length;i++)
-        {
-            System.out.println(nums[i] + " ");
-        }
-
-        int flag = 1;
-
-        for(int i = 0;i<nums.length;i++)
-        {
-            if(nums[i] == 0)
-            {
-                flag = 0;
-                break;
-            }
-        }
-
-        if(flag == 0)
+        if(nums[nums.length - 1] == 0 || nums[nums.length-2] == 0)
         {
             return -1;
-        }
-
+        } 
+        
+      
         return ans;
         
     }
