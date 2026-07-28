@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
