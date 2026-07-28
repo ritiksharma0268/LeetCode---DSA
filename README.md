@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2595-number-of-even-and-odd-bits) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
