@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3208-alternating-groups-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3208-alternating-groups-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
