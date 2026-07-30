@@ -4,7 +4,7 @@ class Solution
     {
         // you have to use the two pointer approach in order to solve the problem //
 
-
+        // we did it using the sliding window appraoch //
         int left = 0;
 
         int right = 0;
@@ -19,7 +19,7 @@ class Solution
            
             count += Math.abs(s.charAt(right) - t.charAt(right));
 
-            while(count > maxCost)
+            if(count > maxCost)
             {
                 count -= Math.abs(s.charAt(left) - t.charAt(left));
                 left++;
