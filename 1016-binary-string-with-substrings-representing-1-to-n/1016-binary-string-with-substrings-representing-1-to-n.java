@@ -2,34 +2,18 @@ class Solution
 {
     public boolean queryString(String s, int n) 
     {
-        Map<Integer,Integer> map1 = new HashMap<>();
+        // now let us use the function which will make our code optimal //
 
-        for(int i  = s.length() - 1;i>=0;i--)
+        for(int  i = 1;i<=n;i++)
         {
-            int k = 0;
-            int sum  = 0;
+            String binary = Integer.toBinaryString(i);
 
-            for(int j = i;j>=0;j--)
-            {
-                int digit = s.charAt(j) - '0';
-
-                sum = sum + digit*(int)Math.pow(2,k);
-
-                k++;
-
-                map1.put(sum,1);
-
-            }
-
-        }
-
-        for(int i  = 1;i<=n;i++)
-        {
-            if(!(map1.containsKey(i)))
+            if(!(s.contains(binary)))
             {
                 return false;
             }
         }
+
 
         return true;
     }
