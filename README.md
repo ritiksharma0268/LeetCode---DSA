@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0917-reverse-only-letters) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2595-number-of-even-and-odd-bits) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1208-get-equal-substrings-within-budget](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
