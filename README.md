@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2401-longest-nice-subarray](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2401-longest-nice-subarray) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2401-longest-nice-subarray](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2401-longest-nice-subarray) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2595-number-of-even-and-odd-bits](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2401-longest-nice-subarray](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2401-longest-nice-subarray) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
