@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [0413-arithmetic-slices](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0748-shortest-completing-word) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0486-predict-the-winner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
