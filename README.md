@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1089-duplicate-zeros) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1768-merge-strings-alternately) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -315,4 +316,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
