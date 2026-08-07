@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
