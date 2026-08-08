@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2326-spiral-matrix-iv](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2326-spiral-matrix-iv) |
 | [2401-longest-nice-subarray](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
+| [2326-spiral-matrix-iv](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2326-spiral-matrix-iv) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
+| [2326-spiral-matrix-iv](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -324,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1669-merge-in-between-linked-lists](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
