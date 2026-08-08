@@ -316,5 +316,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1669-merge-in-between-linked-lists](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
