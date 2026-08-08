@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [0413-arithmetic-slices](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
