@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0877-stone-game) |
+| [0885-spiral-matrix-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0885-spiral-matrix-iii) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2326-spiral-matrix-iv) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/0885-spiral-matrix-iii) |
 | [1260-shift-2d-grid](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/ritiksharma0268/LeetCode---DSA/tree/master/2326-spiral-matrix-iv) |
 ## Divide and Conquer
